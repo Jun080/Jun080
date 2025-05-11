@@ -29,3 +29,4 @@
 
 - ✉️ [morganedassonville08@gmail.com](mailto:morganedassonville08@gmail.com)
 - 🌐 [mon portfolio](https://portfolio-two-psi-96.vercel.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/morgane-dassonville/)
