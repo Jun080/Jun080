@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Salut, moi c’est Morgane Dassonville
 
-<!--
-**Jun080/Jun080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Développeuse front-end passionnée par la création d'interfaces modernes, accessibles et intuitives.  
+📍 Basée à Paris                                
+💻 Étudiante en Master Front-End Developer @ECV Digital                                
+🎓 Diplômée d’un Bachelor Développeur Web & Chef de Projet @EEMI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Compétences principales
+
+- HTML / CSS / SCSS / Tailwind / Bootstrap
+- JavaScript
+- React / Vue (bases)
+- Git / GitHub
+- Responsive design & UI accessible
+
+---
+
+### 🌱 En ce moment...
+
+- Je suis à la recherche d'une **alternance en développement front-end** pour continuer à monter en compétences !
+
+---
+
+### 📫 Me contacter
+
+- ✉️ [morganedassonville08@gmail.com](mailto:morganedassonville08@gmail.com)
+- 🌐 [mon portfolio](https://portfolio-two-psi-96.vercel.app/)
