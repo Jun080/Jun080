@@ -9,8 +9,10 @@
 
 ### 🚀 Compétences principales
 
-- HTML / CSS / SCSS / Tailwind / Bootstrap
+- HTML
+- CSS / SCSS / Tailwind / Bootstrap
 - JavaScript
+- Joomla (CMS)
 - React / Vue (bases)
 - Git / GitHub
 - Responsive design & UI accessible
