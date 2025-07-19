@@ -19,12 +19,6 @@
 
 ---
 
-### 🌱 En ce moment...
-
-- Je suis à la recherche d'une **alternance en développement front-end** pour continuer à monter en compétences !
-
----
-
 ### 📫 Me contacter
 
 - ✉️ [morganedassonville08@gmail.com](mailto:morganedassonville08@gmail.com)
